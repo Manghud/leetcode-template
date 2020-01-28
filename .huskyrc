@@ -1,6 +1,6 @@
 {
   	"hooks": {
-		"pre-commit": "yarn lint",
+		"pre-commit": "yarn lint && jest --passWithNoTests",
 		"pre-push": "yarn lint && jest --passWithNoTests",
 	}
 }

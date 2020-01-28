@@ -1,9 +1,9 @@
 {
   "name": "index.js",
   "version": "1.0.0",
-  "description": "Leetcode Problem - Template For Submission Development",
+  "description": "",
   "main": "index.js",
-  "repository": "git@github.com:Manghud/leetcode-template.git",
+  "repository": "",
   "author": "Ricardo Leon",
   "license": "MIT",
   "scripts": {
